@@ -1,0 +1,31 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    margin: 0px;
+}
+body{
+    background-color: black;
+}
+.header{
+    width: 100%;
+}
+.logo{
+    color: white !important;
+}
+.nav-link{
+    color:white !important;
+    text-decoration: none;
+}
+.hero-banner-video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    height: 50vh;
+    width: 100%;
+}
+.menubar{
+    background-color: transparent;
+    width: 100%;
+}
